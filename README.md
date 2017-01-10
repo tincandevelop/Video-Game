@@ -1,2 +1,2 @@
 # Video-Game
-A scurrently un-named video game made in unity
+A currently un-named video game made in unity
